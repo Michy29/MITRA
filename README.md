@@ -1,2 +1,2 @@
 # PEDCURE
-This system aimed to help medical centers, be it hospitals or clinics store children’s’ medical records since birth till they age. It should be able to send balance notifications to patients in order to keep track of payment and remind them to pay balances. It should send invoices to insurance companies. It should allow medical centers to upload medical files for confidentiality and easy access. The system should also be able to generate medical reports.
+This is a travel reservation system
